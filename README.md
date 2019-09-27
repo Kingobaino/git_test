@@ -1,1 +1,1 @@
-This is kingobaino's first git project.
+This is Kingobaino's first git project.
